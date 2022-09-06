@@ -3,7 +3,15 @@ img{
     height: 400px;
 }
 
+/* color pallete
+primary color : 003865
+secondary color : EF5B0C
+accent color : D4F6CC
+accent color : 3CCF4E
+*/
+
 .canvas{
     width: 500px;
     height: 600px;
+    background-color: #003865;
 }
