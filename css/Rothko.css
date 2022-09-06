@@ -10,7 +10,7 @@ accent color : D4F6CC
 accent color : 3CCF4E
 */
 
-.canvas{
+.canvas {
     width: 500px;
     height: 600px;
     background-color: #003865;
@@ -18,16 +18,23 @@ accent color : 3CCF4E
     overflow: hidden;
 }
 
-.frame{
+.frame {
     border: 50px solid black;
     width: 500px;
     padding: 50px;
     margin: 20px auto;
 }
 
-.one{
+.one {
     width: 425px;
     height: 150px;
     background-color: #3CCF4E;
     margin: 20px auto;
+}
+
+.two {
+    width: 475px;
+    height: 200px;
+    background-color: #EF5B0C;
+    margin: auto;
 }
