@@ -10,20 +10,22 @@ accent color : D4F6CC
 accent color : 3CCF4E
 */
 
-.canvas {
-    width: 500px;
-    height: 600px;
-    background-color: #003865;
-    /* padding: 1px; */
-    overflow: hidden;
-}
-
 .frame {
     border: 50px solid black;
     width: 500px;
     padding: 50px;
     margin: 20px auto;
 }
+
+.canvas {
+    width: 500px;
+    height: 600px;
+    background-color: #003865;
+    /* padding: 1px; */
+    overflow: hidden;
+    filter: blur(2px);
+}
+
 
 .one {
     width: 425px;
@@ -39,9 +41,9 @@ accent color : 3CCF4E
     margin: 0 auto 20px;
 }
 
-.three{
+.three {
     width: 91%;
     height: 28%;
-    background-color:#D4F6CC;
+    background-color: #D4F6CC;
     margin: auto;
 }
