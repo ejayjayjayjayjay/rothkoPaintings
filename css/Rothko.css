@@ -34,6 +34,7 @@ accent color : 3CCF4E
     margin: 20px auto;
     filter: blur(1px);
     box-shadow: 3px 3px #3CCF4E;
+    border-radius: 9px;
 }
 
 .two {
@@ -43,6 +44,8 @@ accent color : 3CCF4E
     margin: 0 auto 20px;
     filter: blur(1px);
     box-shadow: 3px 3px #EF5B0C;
+    border-radius: 8px 10px;
+
 }
 
 .three {
@@ -52,4 +55,5 @@ accent color : 3CCF4E
     margin: auto;
     filter: blur(2px);
     box-shadow: 5px 5px #D4F6CC;
+    border-radius: 30px 25px 60px 12px;
 }
