@@ -35,6 +35,7 @@ accent color : 3CCF4E
     filter: blur(1px);
     box-shadow: 3px 3px #3CCF4E;
     border-radius: 9px;
+    transform: rotate(0.6deg);
 }
 
 .two {
@@ -45,6 +46,7 @@ accent color : 3CCF4E
     filter: blur(1px);
     box-shadow: 3px 3px #EF5B0C;
     border-radius: 8px 10px;
+    transform: rotate(4.03deg);
 
 }
 
@@ -56,4 +58,5 @@ accent color : 3CCF4E
     filter: blur(2px);
     box-shadow: 5px 5px #D4F6CC;
     border-radius: 30px 25px 60px 12px;
+    transform: rotate(-0.02deg);
 }
