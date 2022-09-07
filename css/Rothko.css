@@ -9,6 +9,9 @@ secondary color : EF5B0C
 accent color : D4F6CC
 accent color : 3CCF4E
 */
+h1{
+    text-align: center;
+}
 
 .frame {
     border: 50px solid black;
