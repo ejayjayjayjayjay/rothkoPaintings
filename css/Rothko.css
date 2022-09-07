@@ -32,6 +32,7 @@ accent color : 3CCF4E
     height: 150px;
     background-color: #3CCF4E;
     margin: 20px auto;
+    filter: blur(1px);
 }
 
 .two {
@@ -39,6 +40,7 @@ accent color : 3CCF4E
     height: 200px;
     background-color: #EF5B0C;
     margin: 0 auto 20px;
+    filter: blur(1px);
 }
 
 .three {
@@ -46,4 +48,5 @@ accent color : 3CCF4E
     height: 28%;
     background-color: #D4F6CC;
     margin: auto;
+    filter: blur(2px);
 }
